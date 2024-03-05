@@ -1,4 +1,4 @@
-# 20231215_CaseStudy_ML_Neural_Network
+# CaseStudy Machine learning Neural Network - Churn identification
 
 AB Gaming is a digital gaming platform that offers a wide variety of games available under monthly subscriptions. There are 3 different plans, labeled SMALL, MEDIUM and LARGE, and can be paid in USD or EUR. 
 
