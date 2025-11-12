@@ -9,6 +9,7 @@ __pycache__/
 # Never commit your virtual environment
 .venv/
 venv/
+venv_churn/
 env/
 .env/
 virtualenv/
